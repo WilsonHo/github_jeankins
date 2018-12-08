@@ -8,7 +8,7 @@ class MyScalatraServletTests extends ScalatraFunSuite {
 
   test("GET / on MyScalatraServlet should return status 200") {
     get("/") {
-      status should equal (201)
+      status should equal (200)
     }
   }
 
