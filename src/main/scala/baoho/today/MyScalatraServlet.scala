@@ -5,7 +5,9 @@ import org.scalatra._
 class MyScalatraServlet extends ScalatraServlet {
 
   get("/") {
-    "Ho Gia Bao"
+
+  "Ho Gia Bao"
+
   }
 
 }
