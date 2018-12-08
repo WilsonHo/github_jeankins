@@ -6,7 +6,7 @@ class MyScalatraServlet extends ScalatraServlet {
 
   get("/") {
 
-  "Ho Gia Bao"
+  "Finish Jenkins"
 
   }
 
