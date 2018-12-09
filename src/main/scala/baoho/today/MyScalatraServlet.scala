@@ -6,7 +6,7 @@ class MyScalatraServlet extends ScalatraServlet {
 
   get("/") {
 
-  "Finish Jenkins"
+  "Finish Jenkins with GIT"
 
   }
 
